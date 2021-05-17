@@ -1,5 +1,5 @@
 title: Dayda
-name: Allegheny County / City of Pittsburgh / Western PA Regional Data Center
+name: Western Pennsylvania Regional Data Center
 description: >-
   This is a catalog of datasets organized and made more accessible from the
   Allegheny County / City of Pittsburgh / Western PA Regional Data Center,
@@ -12,10 +12,9 @@ source_phone: +1 555-555-5555
 source_email: info@example.com
 source_catalog: data.gov
 profile_pic: >-
-  https://directory.dayda.org/assets/img/entities/allegheny-county-city-of-pittsburgh-western-pa-regional-data-center.png
+  https://directory.dayda.org/assets/img/entities/western-pennsylvania-regional-data-center.png
 favicon: /assets/img/favicon.png
-url: >-
-  http://allegheny-county-city-of-pittsburgh-western-pa-regional-data-center.dayda.org
+url: 'http://western-pennsylvania-regional-data-center.dayda.org'
 encoding: utf-8
 paginate: 25
 paginate_path: '/page:num/'
